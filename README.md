@@ -23,7 +23,7 @@ Welcome to my github!
 </p>
 
 
-### Recent Acitivies
+### GitHub Stats
 ---
 <center>
 <table>
