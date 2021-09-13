@@ -14,13 +14,10 @@ Welcome to my github!
   💌 You can find me here:  ⤵️
 </p>
 
-<p align="left">
-  <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=fernanda1queiroz44@gmail.com" /></a>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernanda-di-queiroz-freitas)](https://www.linkedin.com/in/fernanda-di-queiroz-freitas)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fernanda1queiroz44@gmail.com)](mailto:fernanda1queiroz44@gmail.com)
 
-  <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernanda-di-queiroz-freitas/" /></a>
-</p>
+
 
 
 ### GitHub Stats
