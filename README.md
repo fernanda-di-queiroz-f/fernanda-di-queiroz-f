@@ -2,7 +2,7 @@
 
 Welcome to my github!
 
-- 🔭 I’m currently working as a Junior Software Developer
+- 🔭 I’m currently working as a Software Developer
 - :man_technologist: I'm a full stack developer ! I work mostly with Java Spring and Angular.
 - :mortar_board: I have a Bachelor's degree on Mechatronics Engineering (Brazil).
 
